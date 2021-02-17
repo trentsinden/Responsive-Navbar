@@ -74,6 +74,7 @@ main {
   body {
     overflow-x: hidden;
   }
+
   .nav-links {
     position: absolute;
     right: 0;
